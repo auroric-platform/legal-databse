@@ -1,5 +1,4 @@
-# Executive Order 1
-## Reestablishing a Strong and United Republic=
+# Executive Order 1 - Reestablishing a Strong and United Republic
 
 By virtue of the authority vested in me as the founding member of the Republic of Aurora,
 
@@ -8,7 +7,7 @@ I, Gabriel Mataleo Lam (Gab1205), the President of the Republic of Aurora, would
 Accordingly, it is hereby ordered as follows:
 
 
-### Section 1: General Principles
+## Section 1: General Principles
 1. The Republic of Aurora will continue the exercise of her national sovereignty and enjoy full independence in executive, legislative, judicial, administrative, foreign affairs and defense power.
 
 2. The Republic of Aurora will continue the protect of the rights and freedoms of all citizen and of all other person in accordance with law.
@@ -18,7 +17,7 @@ Accordingly, it is hereby ordered as follows:
 4. English and Traditional Chinese is used as the official languages by the executive authorities, legislature, judiciary of the Republic of Aurora, the English version shall prevail. For network-wide agreements and other specified government documents, Traditional Chinese version shall prevail.
 
 
-### Section 2: Fundamental Rights and Responsibility of Citizens
+## Section 2: Fundamental Rights and Responsibility of Citizens
 1. All Aurora Citizens shall be equal before the law.
 
 2. The provision of the of the International Covenant on Civil and Political Rights are applied to the Republic and shall enact laws to be implemented in future. 
@@ -38,7 +37,7 @@ Accordingly, it is hereby ordered as follows:
 5. The President of the Republic of Aurora have the rights dissolve the Collective Council after declaration of a national emergency.
 
 
-### Section 4: Legislative Power
+## Section 4: Legislative Power
 1. The Collective Council of the Republic of Aurora shall be the legislature of the Republic.
 
 2. The Collective Council of the Republic of Aurora shall be constituted by elections.
@@ -46,8 +45,7 @@ Accordingly, it is hereby ordered as follows:
 3. A Provisional Collective Council shall be established after the dissolve of the Collective Council and can be constituted by appointment and election.
 
 
-### Section 5: Economic and Foreign Affairs
+## Section 5: Economic and Foreign Affairs
 1. Trade Agreements and Diplomatic Relations in force with other nations or regions shall be maintained.
 
 2. The provision of the Vienna Convention on Diplomatic Relations are applied to the Republic and shall enact laws to be implemented in future.
-
