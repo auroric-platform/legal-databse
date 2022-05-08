@@ -1,5 +1,7 @@
 # Executive Orders
-Executive Order is a directive by the President of the Republic of Aurora, which manages the operations of the government.
+Executive Order is a directive by the President of the Republic of Aurora, which manages the operations of the government. Executive Order serves a constitutional role in Aurora's legal system and has become the essential framework of the Law of Aurora.
+
+Although the President can sign a new executive order at any time in council with the National Security Council, this power is cautiously used to avoid the overriding the legislative power of the Collective Council.
 
 
 ## History
