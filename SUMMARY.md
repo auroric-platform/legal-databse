@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Aurora Legal Database](README.md)
+* [Executive Orders](executive-orders/README.md)
+  * [Executive Order 1](executive-orders/executive-order-1/README.md)
+    * [Executive Order 1 - Reestablishing a Strong and United Republic](executive-orders/executive-order-1/auexop-executiveorder-1-english.md)
+    * [第1號行政命令 - 重新建立一個強大及團結的共和國](executive-orders/executive-order-1/auexop-executiveorder-1-chinese.md)
+  * [Executive Order 2](executive-orders/executive-order-2/README.md)
+    * [第2號行政命令 - 自由和權利之延續](executive-orders/executive-order-2/auexop-executiveorder-2-chinese.md)
+    * [Executive Order 2 - Continuity of Freedoms and Rights](executive-orders/executive-order-2/auexop-executiveorder-2-english.md)
+  * [Executive Order 3](executive-orders/executive-order-3/README.md)
+    * [Executive Order 3 - Withdrawal from the Synercraft Network](executive-orders/executive-order-3/auexop-executiveorder-3-english.md)
+    * [第3號行政命令 - 退出 Synercraft Network](executive-orders/executive-order-3/auexop-executiveorder-3-chinese.md)
+  * [Executive Order 4](executive-orders/executive-order-4/README.md)
+    * [Executive Order 4 - Strength Executive Power](executive-orders/executive-order-4/auexop-executiveorder-4-english.md)
+    * [第4號行政命令 - 強化行政職權](executive-orders/executive-order-4/auexop-executiveorder-4-chinese.md)
